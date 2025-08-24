@@ -6,7 +6,7 @@ Welcome to my GitHub profile\! I'm a passionate developer and `[OpenSource, Java
 
 Here are some of the technologies I frequently use:
 
-* **Languages:** Java, TypeScript  
+* **Languages:** Java, Kotlin, TypeScript  
 * **Library:** React  
 * **Frameworks:** Spring Boot, Next.js  
 * **Databases:** PostgreSQL, MySQL, MongoDB  
