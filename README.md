@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile\! I'm a passionate developer and `[OpenSource, Java and TypeScript]` enthusiast😊.
+Welcome to my GitHub profile\! I'm a passionate developer and `[OpenSource]` enthusiast😊.
 
 ## **Let's Connect\!**
 
