@@ -1,9 +1,16 @@
-## Hi there 👋
+### Hi there, I'm Jean 👋
 
-Welcome to my GitHub profile\! I'm a passionate developer and `[OpenSource]` enthusiast😊. I believe in writing code that is not just functional, but maintainable and elegant. Open to collaborations on software development.
+I am a **Software Engineer** and Open Source enthusiast dedicated to building clean, maintainable, and scalable solutions.
 
-## **Let's Connect\!**
+🚀 **Current Focus**: Developing a high-precision **Logistics Management System** designed to streamline material tracking and inventory workflows.
 
-Feel free to explore my repositories to see my work. If you have any questions or just want to chat about tech, don't hesitate to reach out\!
+🛠 **Tech Stack**
+* Backend: PHP (Laravel)
+* Frontend: Blade Templates, CSS3, JavaScript
+* Database: MySQL
+* DevOps: Docker
 
-Happy coding\!
+I believe that great software isn't just about solving a problem; it's about writing "future-proof" code that is as elegant as it is functional.
+
+📫 **Let's Connect!**
+I’m always open to collaborating on innovative software projects. Feel free to explore my repositories or reach out for a chat about tech!
