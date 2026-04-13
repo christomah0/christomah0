@@ -3,13 +3,13 @@
 I'm a **Full-Stack / Back-End Software Engineer**, passionate about
 building clean, scalable systems that solve real problems.
 
-- 🔭 Currently building REST APIs and back-end services with Spring Boot & Laravel
-- 🌱 Deepening my skills in distributed systems, Java J2EE & React Native
-- ⚡ I went from front-end intern to shipping full REST APIs with JWT auth in under a year
+- Currently building REST APIs and back-end services with Spring Boot & Laravel
+- Deepening my skills in distributed systems, Java J2EE & React Native
+- I went from front-end intern to shipping full REST APIs with JWT auth in under a year
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Back-End**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -39,7 +39,7 @@ building clean, scalable systems that solve real problems.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=christomah0&theme=default&hide_border=true" alt="GitHub Streak" />
@@ -51,7 +51,7 @@ building clean, scalable systems that solve real problems.
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-christophemahalomba.netlify.app-00C7B7?style=flat&logo=netlify&logoColor=white)](https://christophemahalomba.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean_Christophe-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-christophe-mahalomba)
