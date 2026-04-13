@@ -45,10 +45,6 @@ building clean, scalable systems that solve real problems.
   <img src="https://github-readme-streak-stats.herokuapp.com?user=christomah0&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christomah0&layout=compact&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
-
 ---
 
 > *"Write code for the next developer, not just for the next deployment."*
