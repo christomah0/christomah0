@@ -3,10 +3,8 @@
 I'm a **Full-Stack / Back-End Software Engineer**, passionate about
 building clean, scalable systems that solve real problems.
 
-- 🎓 Master's student in Computer Science at ENI Fianarantsoa
 - 🔭 Currently building REST APIs and back-end services with Spring Boot & Laravel
 - 🌱 Deepening my skills in distributed systems, Java J2EE & React Native
-- 🗣️ French & English — building software from the Indian Ocean
 - ⚡ I went from front-end intern to shipping full REST APIs with JWT auth in under a year
 
 ---
@@ -61,5 +59,6 @@ building clean, scalable systems that solve real problems.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-christophemahalomba.netlify.app-00C7B7?style=flat&logo=netlify&logoColor=white)](https://christophemahalomba.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean_Christophe-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-christophe-mahalomba)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+261325620370-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/261325620370)
 [![Email](https://img.shields.io/badge/Email-christophemahalomba@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:christophemahalomba@gmail.com)
 [![X](https://img.shields.io/badge/X-@JeanMahalomba-000000?style=flat&logo=x&logoColor=white)](https://x.com/@JeanMahalomba)
