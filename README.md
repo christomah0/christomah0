@@ -3,10 +3,6 @@
 I'm a **Full-Stack / Back-End Software Engineer**, passionate about
 building clean, scalable systems that solve real problems.
 
-- Currently building REST APIs and back-end services with Spring Boot & Laravel
-- Deepening my skills in distributed systems, Java J2EE & React Native
-- I went from front-end intern to shipping full REST APIs with JWT auth in under a year
-
 ---
 
 ### Tech Stack
